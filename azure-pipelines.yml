@@ -1,5 +1,5 @@
 pool:
-  vmimage: 'ubuntu-latest'
+  name: 'DESKTOP-RRPOUON'
 trigger:
 - master
 
