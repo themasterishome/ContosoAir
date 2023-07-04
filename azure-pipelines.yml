@@ -1,5 +1,7 @@
 pool:
-  name: 'DESKTOP-RRPOUON'
+  name: 'Default'
+  demands: Agent.Name -equals DESKTOP-RRPOUON
+
 trigger:
 - master
 
