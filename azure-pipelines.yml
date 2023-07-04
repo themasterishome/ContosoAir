@@ -1,7 +1,5 @@
 pool:
-  name: 'Default'
-  demands: Agent.Name -equals DESKTOP-RRPOUON
-
+  vmimage: 'ubuntu-latest'
 trigger:
 - master
 
